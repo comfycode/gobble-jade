@@ -1,6 +1,6 @@
 {
   "name": "gobble-jade",
-  "version": "0.0.1",
+  "version": "0.1.3",
   "description": "Compile jade templates with gobble",
   "author": {
     "name": "comfycode"
