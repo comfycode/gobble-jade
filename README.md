@@ -16,14 +16,7 @@ npm i -D gobble-jade
 
 ```js
 var gobble = require('gobble')
-module.exports = gobble('templates').transform('jade')
-```
-
-The same, but with an options:
-
-```js
-var gobble = require('gobble')
-module.exports = gobble('templates').transform('jade', {pretty: false, cache: true})
+module.exports = gobble('templates').transform('jade'/*, options*/)
 ```
 
 See the [jade options](http://jade-lang.com/api/) for details.
