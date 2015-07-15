@@ -1,0 +1,24 @@
+{
+  "name": "gobble-jade",
+  "version": "1.0.0",
+  "description": "Compile jade templates with gobble",
+  "author": {
+    "name": "comfycode"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comfycode/gobble-jade.git"
+  },
+  "dependencies": {
+    "jade": "^1.11.0"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-jade"
+  ],
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
