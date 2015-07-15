@@ -15,10 +15,7 @@
   },
   "keywords": [
     "gobble",
-    "gobble-jade"
-  ],
-  "files": [
-    "index.js",
-    "README.md"
+    "gobble-jade",
+    "jade"
   ]
 }
